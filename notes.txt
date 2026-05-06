@@ -1,2 +1,3 @@
 Learning Github properly 
 Learning branches in Github 
+Learning branches in GitHub 
